@@ -9,8 +9,8 @@ item (FEAT_TRAINS, item_Gordon, 401) {
 		refittable_cargo_classes:		0;
 		cargo_allow_refit:				[GOOD, PASS];
 		loading_speed:					3;
-		cost_factor:					80;
-		running_cost_factor:			100;
+		cost_factor:					70;
+		running_cost_factor:			70;
 		sprite_id:						SPRITE_ID_NEW_TRAIN;
 		speed:							92 mph;
 		misc_flags:						TRAIN_FLAG_NO_BREAKDOWN_SMOKE;

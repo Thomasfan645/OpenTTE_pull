@@ -9,8 +9,8 @@ item (FEAT_TRAINS, item_PipEmma, 2531) {
         refittable_cargo_classes:           CC_PASSENGERS;
         cargo_allow_refit:                  [PASS, TOUR];
         loading_speed:                      10;
-        cost_factor:                        180;
-        running_cost_factor:                200;
+        cost_factor:                        70;
+        running_cost_factor:                70;
         sprite_id:                          SPRITE_ID_NEW_TRAIN;
         speed:                              125 mph;
         misc_flags:                         TRAIN_FLAG_MU;

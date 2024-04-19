@@ -9,7 +9,7 @@ item (FEAT_TRAINS, item_Henry, 301) {
 		refittable_cargo_classes:		0;
 		cargo_allow_refit:				[GOOD, PASS];
 		loading_speed:					3;
-		cost_factor:					75;
+		cost_factor:					90;
 		running_cost_factor:			90;
 		sprite_id:						SPRITE_ID_NEW_TRAIN;
 		speed:							80 mph;

@@ -7,8 +7,8 @@ item (FEAT_TRAINS, item_Annie, 10012) {
         vehicle_life:                   20;
         cargo_allow_refit:              [PASS, TOUR];
         loading_speed:                  10;
-        cost_factor:                    100;
-        running_cost_factor:            96;
+        cost_factor:                    10;
+        running_cost_factor:            10;
         speed:                          60 mph;
         power:                          0;
         sprite_id:                      SPRITE_ID_NEW_TRAIN;
