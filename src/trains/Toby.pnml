@@ -9,8 +9,8 @@ item (FEAT_TRAINS, item_Toby, 10071) {
         refittable_cargo_classes:           0;
         cargo_allow_refit:                  [PASS, TOUR];
         loading_speed:                      3;
-        cost_factor:                        6;
-        running_cost_factor:                6;
+        cost_factor:                        11;
+        running_cost_factor:                11;
         sprite_id:                          SPRITE_ID_NEW_TRAIN;
         speed:                              42 mph;
         misc_flags:                         TRAIN_FLAG_NO_BREAKDOWN_SMOKE;
